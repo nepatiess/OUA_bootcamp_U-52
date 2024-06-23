@@ -22,12 +22,12 @@ Takım Rolleri
 
 Ürün Özellikleri
 
--XXXX
+- XXXX
 
 Hedef Kitle
 
--XXXX
+- XXXX
 
 Product Backlog
 
--XXXX
+- XXXX
