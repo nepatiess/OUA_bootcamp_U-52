@@ -13,16 +13,21 @@ Takım Rolleri
 |  | Yunus Erkasap | Developer  |.|
 
 Ürün İsmi
+
 - XXXX
 
 Ürün Açıklaması
+
 - XXXX
 
 Ürün Özellikleri
+
 -XXXX
 
 Hedef Kitle
+
 -XXXX
 
 Product Backlog
+
 -XXXX
