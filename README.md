@@ -1,8 +1,8 @@
-##Takım İsmi
+Takım İsmi
 
 - XXXXX
 
-##Takım Rolleri
+Takım Rolleri
 
 | Resim? | İsim | Rol | Sosyal Medya |
 | ------------- | ------------- | ------------- | --------- |
@@ -12,17 +12,17 @@
 |  | Yusuf Yılmaz | Developer  |  <nav class="navbar navbar-default"> <div class="container-fluid"> <div class="navbar-header"> <a class="navbar-brand" href="https://www.linkedin.com/in/yusufyilmaz/" target="_blank"></a> </div> </div> <div class="container-fluid text-center social"> <a target="_blink"  href="https://www.linkedin.com/in/yusufyilmaz/"><span class="fa-stack fa-lg" width="500px" height="auto"><i class="fa fa-linkedin fa-stack-1x fa-1g"></i> </span></a>|
 |  | Yunus Erkasap | Developer  |  .|
 
-##Ürün İsmi
+Ürün İsmi
 - XXXX
 
-##Ürün Açıklaması
+Ürün Açıklaması
 - XXXX
 
-##Ürün Özellikleri
+Ürün Özellikleri
 -XXXX
 
-##Hedef Kitle
+Hedef Kitle
 -XXXX
 
-##Product Backlog
+Product Backlog
 -XXXX
