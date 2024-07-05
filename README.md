@@ -50,3 +50,7 @@
 ------------
 
 # **SPRINT 1**
+- Puan tamamlama: Proje boyunca tamamlanması gereken toplam backlog puanı 45'tir.
+- Üç Sprinte böldüğümüzde, ilk sprint için hedeflenen tamamlanma puanı ise 15 olarak belirlenmiştir.
+- İlk sprintte backlog puanı 15 üzerinden 12 puan alınmıştır.
+- Daily Scrum: Görüşmeler, Whatsapp ve Discord üzerinden sağlanmıştır.
