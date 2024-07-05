@@ -4,7 +4,7 @@
 
 ## Takım İsmi
 
-- XXXXX
+- PARLAYAN YILDZIZLAR TAKIMI :D
 
 ## Takım Üyeleri
 
