@@ -2,11 +2,6 @@
 
 <img src="https://th.bing.com/th/id/OIG3.vofGTrNBfyDOU8ZC4jQM?w=1024&h=1024&rs=1&pid=ImgDetMain" width="500" height="500">
 
-## İçindekiler
-[TOCM]
-
-[TOC]
-
 ## Takım İsmi
 
 - XXXXX
@@ -28,8 +23,7 @@
 ## Oyun Açıklaması
 
 - "The Unholy Covenant", PC platformunda oynanan, adrenalin dolu bir 3D korku ve macera oyunudur. Oyuncular, aracının bozulması sonucu terkedilmiş ve lanetli bir kasabada mahsur kalan bir karakteri kontrol ederler. Amacınız, kasabanın sırlarını açığa çıkararak ve hayatta kalmak için gerekli eşyaları bularak bu kabustan kurtulmaktır.
-
-Oyunun atmosferik dünyasında, her köşe başında sizi korkunç yaratıklar ve ürpertici olaylar bekliyor. Bulmacaları çözerek ve çeşitli ipuçlarını takip ederek kasabanın karanlık geçmişine dair parçaları bir araya getirin. Yol boyunca, dehşet verici yaratıklarla yüzleşmek zorundasınız. Savaş mekanikleri ve stratejik düşünme, hayatta kalmak için anahtar olacak.
+- Oyunun atmosferik dünyasında, her köşe başında sizi korkunç yaratıklar ve ürpertici olaylar bekliyor. Bulmacaları çözerek ve çeşitli ipuçlarını takip ederek kasabanın karanlık geçmişine dair parçaları bir araya getirin. Yol boyunca, dehşet verici yaratıklarla yüzleşmek zorundasınız. Savaş mekanikleri ve stratejik düşünme, hayatta kalmak için anahtar olacak.
 
 ## Oyun Özellikleri
 
