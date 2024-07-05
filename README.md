@@ -7,7 +7,7 @@
 
 - XXXXX
 
-### Takım Rolleri
+### Takım Üyeleri
 
 | Resim? | İsim | Rol | Sosyal Medya |
 | ------------- | ------------- | ------------- | --------- |
