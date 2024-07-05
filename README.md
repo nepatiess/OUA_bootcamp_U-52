@@ -55,6 +55,17 @@
 - Üç Sprinte böldüğümüzde, ilk sprint için hedeflenen tamamlanma puanı ise **15** olarak belirlenmiştir.
 - İlk sprintte backlog puanı **15** üzerinden **12** puan alınmıştır.
 - **Daily Scrum:** Görüşmeler, **Whatsapp** ve **Discord** üzerinden sağlanmıştır.
+- <!DOCTYPE html>
+<html>
+<body>
+
+<h1>The progress element</h1>
+
+<label for="file">Downloading progress:</label>
+<progress id="file" value="12" max="45"> 26,67% </progress>
+
+</body>
+</html>
 
 <img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua.png">
 
