@@ -50,7 +50,8 @@
 ------------
 
 # **SPRINT 1**
-- **Puan tamamlama:** Proje boyunca tamamlanması gereken toplam backlog puanı **45**'tir.
+- **Sprint notları:** Sprintte, oyunda kesinlikle olması gereken kartlar belirlenip görev dağıtımı yapılmıştır.
+- **Puan tamamlama mantığı:** Proje boyunca tamamlanması gereken toplam backlog puanı **45**'tir.
 - Üç Sprinte böldüğümüzde, ilk sprint için hedeflenen tamamlanma puanı ise **15** olarak belirlenmiştir.
 - İlk sprintte backlog puanı **15** üzerinden **12** puan alınmıştır.
 - **Daily Scrum:** Görüşmeler, **Whatsapp** ve **Discord** üzerinden sağlanmıştır.
@@ -75,3 +76,15 @@
 ------------
 
 <img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua5.png">
+
+## Sprint Review
+- Oyunun türü ve takım üyelerinin rolleri belirlendi.
+- Oyunda kullanılacak varlıklar (assetler) tartışılarak kararlaştırılmıştır.
+- Proje kapsamında, tüm eklemeler ana sahneye aktarılacaktır ve bu ana sahne tek bir sahne olarak kullanılacaktır. Her takım üyesi için ayrı sahneler oluşturulmuştur.
+
+## Sprint Retrospective
+- Günlük stand-up toplantıları verimli geçti ve herkesin durumunu takip etmemizi sağladı.
+- Kod incelemeleri ve paylaşılan geri bildirimler kalitenin artmasına yardımcı oldu.
+- Ekip içinde daha sık ve etkili iletişim kurmanın sorunları daha hızlı çözebileceği görüldü.
+- Haftalık kısa toplantılarla ilerleme durumunun sık sık kontrol edilmesi önerildi.
+- İletişim araçlarının daha etkin kullanılması önerildi.
