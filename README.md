@@ -45,7 +45,7 @@
 ## Product Backlog URL
 > [Sprint Board](https://trello.com/invite/b/zk226x7A/ATTI2a3b4660d2dcb70b5fd94e3d92683b6b50B85BDE/sprint-board)
 
-<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua6.png">
+<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/trello.png">
 
 ------------
 
