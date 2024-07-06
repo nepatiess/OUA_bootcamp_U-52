@@ -4,7 +4,7 @@
 
 ## Takım İsmi
 
-- PARLAYAN YILDIZLAR TAKIMI :D
+- PARLAYAN YILDIZLAR TAKIMI :D (OUA UNITY 52)
 
 ## Takım Üyeleri
 
