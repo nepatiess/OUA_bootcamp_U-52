@@ -4,7 +4,7 @@
 
 ## Takım İsmi
 
-- PARLAYAN YILDZIZLAR TAKIMI :D
+- PARLAYAN YILDIZLAR TAKIMI :D
 
 ## Takım Üyeleri
 
@@ -55,8 +55,7 @@
 - Üç Sprinte böldüğümüzde, ilk sprint için hedeflenen tamamlanma puanı ise **15** olarak belirlenmiştir.
 - İlk sprintte backlog puanı **15** üzerinden **12** puan alınmıştır.
 - **Daily Scrum:** Görüşmeler, **Whatsapp** ve **Discord** üzerinden sağlanmıştır.
-
-<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua.png">
+- **Görüşmelerin ekran fotoğrafları:** [Link](https://imgur.com/a/VHg7UIp)
 
 ## Oyun Durumu
 <img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua1.png">
