@@ -51,9 +51,9 @@
 
 # **SPRINT 1**
 - **Sprint notları:** Sprintte, oyunda kesinlikle olması gereken kartlar belirlenip görev dağıtımı yapılmıştır.
-- **Puan tamamlama mantığı:** Proje boyunca tamamlanması gereken toplam backlog puanı **45**'tir.
-- Üç Sprinte böldüğümüzde, ilk sprint için hedeflenen tamamlanma puanı ise **15** olarak belirlenmiştir.
-- İlk sprintte backlog puanı **15** üzerinden **12** puan alınmıştır.
+- **Puan tamamlama mantığı:** Her bir göreve **1** puan atanmıştır. Proje boyunca tamamlanması gereken toplam backlog puanı **45**'tir.
+- Üç Sprinte böldüğümüzde, ilk sprint için hedeflenen tamamlanma puanı ise **12** olarak belirlenmiştir.
+- İlk sprintte backlog puanı **12** üzerinden **12** puan alarak hedefe ulaşılmıştır.
 - **Daily Scrum:** Görüşmeler, **Whatsapp** ve **Discord** üzerinden sağlanmıştır.
 - **Görüşmelerin ekran fotoğrafları:** [Link](https://imgur.com/a/VHg7UIp)
 
