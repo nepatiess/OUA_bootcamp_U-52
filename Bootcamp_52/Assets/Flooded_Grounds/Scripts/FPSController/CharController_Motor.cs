@@ -39,8 +39,8 @@ public class CharController_Motor : MonoBehaviour {
 		moveFB = Input.GetAxis ("Horizontal") * speed;
 		moveLR = Input.GetAxis ("Vertical") * speed;
 
-		rotX = Input.GetAxis ("Mouse X") * sensitivity;
-		rotY = Input.GetAxis ("Mouse Y") * sensitivity;
+		rotX = Input.GetAxis ("Mouse X") * sensitivity ;
+		rotY = Input.GetAxis ("Mouse Y") * sensitivity ;
 
 		//rotX = Input.GetKey (KeyCode.Joystick1Button4);
 		//rotY = Input.GetKey (KeyCode.Joystick1Button5);
