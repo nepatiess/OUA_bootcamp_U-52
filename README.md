@@ -1,10 +1,10 @@
 ## Örnek Resim
 
-<img src="https://th.bing.com/th/id/OIG3.vofGTrNBfyDOU8ZC4jQM?w=1024&h=1024&rs=1&pid=ImgDetMain" width="500" height="500">
+<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oyun_ikon.PNG" height=500 width=1920 >
 
 ## Takım İsmi
 
-- PARLAYAN YILDZIZLAR TAKIMI :D
+- PARLAYAN YILDIZLAR TAKIMI :D (OUA UNITY 52)
 
 ## Takım Üyeleri
 
@@ -45,18 +45,17 @@
 ## Product Backlog URL
 > [Sprint Board](https://trello.com/invite/b/zk226x7A/ATTI2a3b4660d2dcb70b5fd94e3d92683b6b50B85BDE/sprint-board)
 
-<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua6.png">
+<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/trello_.png">
 
 ------------
 
 # **SPRINT 1**
 - **Sprint notları:** Sprintte, oyunda kesinlikle olması gereken kartlar belirlenip görev dağıtımı yapılmıştır.
-- **Puan tamamlama mantığı:** Proje boyunca tamamlanması gereken toplam backlog puanı **45**'tir.
-- Üç Sprinte böldüğümüzde, ilk sprint için hedeflenen tamamlanma puanı ise **15** olarak belirlenmiştir.
-- İlk sprintte backlog puanı **15** üzerinden **12** puan alınmıştır.
+- **Puan tamamlama mantığı:** Her bir göreve **1** puan atanmıştır. Proje boyunca tamamlanması gereken toplam backlog puanı **45**'tir.
+- Üç Sprinte böldüğümüzde, ilk sprint için hedeflenen tamamlanma puanı ise **13** olarak belirlenmiştir.
+- İlk sprintte backlog puanı **13** üzerinden **13** puan alarak hedefe ulaşılmıştır.
 - **Daily Scrum:** Görüşmeler, **Whatsapp** ve **Discord** üzerinden sağlanmıştır.
-
-<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua.png">
+- **Görüşmelerin ekran fotoğrafları:** [Link](https://imgur.com/a/discord-ve-whatsapp-g-r-meleri-VHg7UIp)
 
 ## Oyun Durumu
 <img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua1.png">
