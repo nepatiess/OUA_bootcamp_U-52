@@ -103,4 +103,28 @@
 - **Görüşmelerin ekran fotoğrafları:** [Link](https://imgur.com/a/CLySFFQ)
 
 ## Oyun Durumu
+<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua15.png">
 
+------------
+
+<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua16.png">
+
+------------
+
+<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua17.png">
+
+------------
+
+<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua18.png">
+
+------------
+
+<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua19.png">
+
+------------
+
+<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua20.jpg">
+
+------------
+
+<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua21.jpg">
