@@ -128,3 +128,16 @@
 ------------
 
 <img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua21.jpg">
+
+## Sprint Review
+- 
+- 
+- 
+- 
+
+## Sprint Retrospective
+- 
+- 
+- 
+- 
+- 
