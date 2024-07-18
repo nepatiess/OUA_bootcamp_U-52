@@ -94,3 +94,10 @@
 <img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua7.jpg">
 
 # **SPRINT 2**
+- 
+- 
+- 
+- 
+- 
+- **Daily Scrum:** Görüşmeler, **Whatsapp** ve **Discord** üzerinden sağlanmıştır.
+- **Görüşmelerin ekran fotoğrafları:** [Link](https://imgur.com/a/CLySFFQ)
