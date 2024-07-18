@@ -101,3 +101,6 @@
 - 
 - **Daily Scrum:** Görüşmeler, **Whatsapp** ve **Discord** üzerinden sağlanmıştır.
 - **Görüşmelerin ekran fotoğrafları:** [Link](https://imgur.com/a/CLySFFQ)
+
+## Oyun Durumu
+
