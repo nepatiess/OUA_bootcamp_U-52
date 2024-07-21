@@ -94,11 +94,10 @@
 <img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua7.jpg">
 
 # **SPRINT 2**
-- 
-- 
-- 
-- 
-- 
+- **Sprint notları:** 2. Sprintte, oyunda olması gereken kartlar belirlenip görev dağıtımı yapılmıştır.
+- **Puan tamamlama mantığı:** Her bir göreve **1** puan atanmış olduğundan toplam backlog puanı **45** olarak devam etmiştir.
+- Üç Sprinte böldüğümüzde, ikinci sprint için hedeflenen tamamlanma puanı ise **16** olarak belirlenmiştir.
+- İlk sprintte backlog puanı **16** üzerinden **16** puan alarak hedefe ulaşılmıştır. Toplam tamamlama puanından sadece **16** puanlık görev kalmıştır.
 - **Daily Scrum:** Görüşmeler, **Whatsapp** ve **Discord** üzerinden sağlanmıştır.
 - **Görüşmelerin ekran fotoğrafları:** [Link](https://imgur.com/a/CLySFFQ)
 
@@ -138,14 +137,16 @@
 <img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua23.png">
 
 ## Sprint Review
-- 
-- 
-- 
-- 
+- Bu sprintte, belirlediğimiz hedeflere ulaşmayı başardık ve önemli özellikleri tamamladık.
+- Sprint sırasında bazı zorluklarla karşılaştık, ancak bunları aşmak için etkili çözümler geliştirdik.
+- Tamamlanan işlerin kalitesi hakkında ekipten aldığımız geri bildirimler olumlu yöndeydi.
+- Gelecek son sprint için yapmamız gereken iyileştirmeleri ve değişiklikleri belirledik.
+- Bir sonraki sprintte odaklanacağımız ana hedefler ve öncelikler üzerine planlamalar yaptık.
+- Gelecek ve son sprint için hazırlıklarımızı tamamladık ve önümüzdeki süreçte neler yapacağımıza dair net bir plan oluşturduk.
 
 ## Sprint Retrospective
-- 
-- 
-- 
-- 
-- 
+- Ekibimiz, belirlediğimiz hedeflere ulaşmak için etkili bir işbirliği ve iletişim sergiledi.
+- Belirli görevlerde zaman yönetimi konusunda bazı sorunlar yaşadık ve bu konuda gelişim göstermemiz gerektiğini düşündük.
+- Ekip üyeleri arasındaki geri bildirim sürecini geliştirmek, gelecekte daha etkili çalışmamıza katkıda bulunuldu.
+- Gelecek sprintte, görevlerimiz üzerine odaklanarak bu alandaki eksiklikleri gidermeyi planlandı.
+- Haftalık kısa toplantılarla ilerleme durumunun sık sık kontrol edilmesi önerildi.
