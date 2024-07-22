@@ -130,10 +130,6 @@
 
 ------------
 
-<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua19.png">
-
-------------
-
 <img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua20.jpg">
 
 ------------
@@ -147,6 +143,10 @@
 ------------
 
 <img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua23.png">
+
+------------
+
+<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua24.png">
 
 ## Sprint Review
 - Bu sprintte, belirlediğimiz hedeflere ulaşmayı başardık ve önemli özellikleri tamamladık.
