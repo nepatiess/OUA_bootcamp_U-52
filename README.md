@@ -47,6 +47,9 @@
 # **SPRINT 1**
 ## Product Backlog URL
 > [Sprint Board](https://trello.com/invite/b/zk226x7A/ATTI2a3b4660d2dcb70b5fd94e3d92683b6b50B85BDE/sprint-board)
+
+------------
+
 > <img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/trello_.png">
 
 - **Sprint notları:** Sprintte, oyunda kesinlikle olması gereken kartlar belirlenip görev dağıtımı yapılmıştır.
@@ -97,7 +100,11 @@
 
 # **SPRINT 2**
 ## Product Backlog URL
+
 > [Sprint Board](https://trello.com/invite/b/zk226x7A/ATTI2a3b4660d2dcb70b5fd94e3d92683b6b50B85BDE/sprint-board)
+
+------------
+
 > <img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/Trello_2.png">
 - **Sprint notları:** 2. Sprintte, oyunda olması gereken kartlar belirlenip görev dağıtımı yapılmıştır.
 - **Puan tamamlama mantığı:** Her bir göreve **1** puan atanmış olduğundan toplam backlog puanı **45** olarak devam etmiştir.
