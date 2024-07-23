@@ -4,16 +4,17 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - kapak
-  - CinemachineTarget
+  - InteractiveObject
+  - FootSteps/Grass
+  - FootSteps/Wood
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Item
+  - 
   - Water
   - UI
-  - 
+  - Interact
   - 
   - 
   - 
