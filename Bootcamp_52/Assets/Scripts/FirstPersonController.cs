@@ -30,7 +30,7 @@ public class FirstPersonController : MonoBehaviour
     [SerializeField, Range(1, 10)] private float lookSpeedX = 2.0f;
     [SerializeField, Range(1, 10)] private float lookSpeedY = 2.0f;
     [SerializeField, Range(1, 100)] private float upperLooklimit = 80.0f;
-    [SerializeField, Range(1, 100)] private float lowerLooklimit = 80.0f;
+    [SerializeField, Range(1, 100)] private float lowerLooklimit = 70.0f;
 
     [Header("Jumping Parameters")]
     [SerializeField] private float jumpForce = 8.0f;
@@ -48,10 +48,10 @@ public class FirstPersonController : MonoBehaviour
 
     [Header("Headbob parameters")]
     [SerializeField] private float walkBobSpeed = 14f;
-    [SerializeField] private float walkBobAmount = 0.05f;
+    [SerializeField] private float walkBobAmount = 0.03f;
     [SerializeField] private float sprintBobSpeed = 14f;
-    [SerializeField] private float sprintBobAmount = 0.11f;
-    [SerializeField] private float crouchBobSpeed = 14f;
+    [SerializeField] private float sprintBobAmount = 0.07f;
+    [SerializeField] private float crouchBobSpeed = 10f;
     [SerializeField] private float crouchBobAmount = 0.025f;
     private float defaultYPos = 0;
     private float timer;
@@ -68,6 +68,11 @@ public class FirstPersonController : MonoBehaviour
     private float footstepTimer = 0;
     private float GetCurrentOffset => isCrouching ? baseStepSpeed * crouchStepMultipler : IsSprinting ? baseStepSpeed * sprintStepMultipler : baseStepSpeed;
 
+
+    [Header("Animations")]
+    [SerializeField] private Animator animator; 
+
+
     private Camera playerCamera;
     private CharacterController characterController;
 
@@ -82,6 +87,7 @@ public class FirstPersonController : MonoBehaviour
         defaultYPos = playerCamera.transform.localPosition.y;
         Cursor.lockState = CursorLockMode.Locked;
         Cursor.visible = false;
+        animator = GetComponent<Animator>();
     }
     private void Update()
     {
@@ -111,8 +117,10 @@ public class FirstPersonController : MonoBehaviour
             {
                 HandleFootsteps();
             }
+            // Update animator parameters
+            bool isMoving = currentInput != Vector2.zero;
+            animator.SetBool("move", isMoving);
 
-            
         }
     }
     private void HandleMovementInput()
@@ -122,6 +130,8 @@ public class FirstPersonController : MonoBehaviour
         float moveDirectionY = moveDirection.y;
         moveDirection = (transform.TransformDirection(Vector3.forward) * currentInput.x) + (transform.TransformDirection(Vector3.right) * currentInput.y);
         moveDirection.y = moveDirectionY;
+      
+
     }
     private void HandleMouseLook()
     {
@@ -257,4 +267,5 @@ public class FirstPersonController : MonoBehaviour
         isCrouching = !isCrouching;
         duringCrouchAnimation = false;
     }
+    
 }
