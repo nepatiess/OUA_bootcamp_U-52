@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections; // IEnumerator için gerekli ad alaný
 
-public class DoorController : MonoBehaviour
+public class ElectricController : MonoBehaviour
 {
     public Vector3 closedRotation = new Vector3(-450f, 0f, 90f); // Kapalý pozisyon rotasyonu
     public Vector3 openRotation = new Vector3(-275f, 0f, 90f);   // Açýk pozisyon rotasyonu

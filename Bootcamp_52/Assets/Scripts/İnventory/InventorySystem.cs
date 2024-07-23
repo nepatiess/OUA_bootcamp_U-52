@@ -2,7 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using StarterAssets; // FirstPersonController sýnýfýnýn bulunduðu namespace
+
 
 public class InventorySystem : MonoBehaviour
 {
@@ -26,19 +26,7 @@ public class InventorySystem : MonoBehaviour
         }
     }
 
-    private void Update()
-    {
-        if (!InventoryUI.activeInHierarchy && Input.GetKeyDown(KeyCode.E))
-        {
-            pm.isInterrupted = true;
-            InventoryUI.SetActive(true);
-        }
-        else if (InventoryUI.activeInHierarchy && (Input.GetKeyDown(KeyCode.E) || Input.GetKeyDown(KeyCode.Escape)))
-        {
-            pm.isInterrupted = false;
-            InventoryUI.SetActive(false);
-        }
-    }
+   
 
     public void PickUpItem(ItemObject obj)
     {
