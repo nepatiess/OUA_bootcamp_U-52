@@ -7,7 +7,7 @@ public class DoorRaycast : MonoBehaviour
 {
     [SerializeField] private int RayLenght = 5;
     [SerializeField] private LayerMask layerMaskInteract;
-    [SerializeField] private string excludeLayerName;
+    [SerializeField] private string excludeLayerName = null;
 
     private DoorController raycastObj;
 
@@ -41,7 +41,7 @@ public class DoorRaycast : MonoBehaviour
 
                 if (Input.GetKeyDown(openDoorKey))
                 {
-                    raycastObj.PlayAnimation();
+                    raycastObj. PlayAnimation();
                 }
             }
         }
