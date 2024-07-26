@@ -162,3 +162,70 @@
 - Ekip üyeleri arasındaki geri bildirim sürecini geliştirmek, gelecekte daha etkili çalışmamıza katkıda bulunuldu.
 - Gelecek sprintte, görevlerimiz üzerine odaklanarak bu alandaki eksiklikleri gidermeyi planlandı.
 - Haftalık kısa toplantılarla ilerleme durumunun sık sık kontrol edilmesi önerildi.
+
+------------
+------------
+
+# **SPRINT 3**
+## Product Backlog URL
+
+> [Sprint Board](https://trello.com/invite/b/zk226x7A/ATTI2a3b4660d2dcb70b5fd94e3d92683b6b50B85BDE/sprint-board)
+
+------------
+
+> <img src="">
+- **Sprint notları:** 3. Sprintte, oyunda olması ve tamamen tamamlanması gereken kartlar belirlenip görev dağıtımı yapılmıştır.
+- **Puan tamamlama mantığı:** Her bir göreve **1** puan atanmış olduğundan toplam backlog puanı **45** olarak devam etmiştir.
+- Üç Sprinte böldüğümüzde, üçüncü sprint için hedeflenen tamamlanma puanı ise **?** olarak belirlenmiştir.
+- İlk sprintte backlog puanı **?** üzerinden **?** puan alarak hedefe ulaşılmıştır. Toplam tamamlama puanı tamamlanmıştır.
+- **Daily Scrum:** Görüşmeler, **Whatsapp** ve **Discord** üzerinden sağlanmıştır.
+- **Görüşmelerin ekran fotoğrafları:** [Link](https://imgur.com/a/yhIGdJi)
+
+## Oyun Durumu
+<img src="">
+
+------------
+
+<img src="">
+
+------------
+
+<img src="">
+
+------------
+
+<img src="">
+
+------------
+
+<img src="">
+
+------------
+
+<img src="">
+
+------------
+
+<img src="">
+
+------------
+
+<img src="">
+
+------------
+
+<img src="">
+
+## Sprint Review
+- 
+- 
+- 
+- 
+- 
+- 
+
+## Sprint Retrospective
+- 
+- 
+- 
+- 
