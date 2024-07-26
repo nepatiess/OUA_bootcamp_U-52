@@ -17,10 +17,10 @@ public class Interaction : MonoBehaviour
             {
                 Debug.Log("Interacted with: " + hit.collider.gameObject.name);
                 // Etkileþim yapýlacak iþlev burada çaðrýlabilir
-                Interactable interactable = hit.collider.GetComponent<Interactable>();
+                electricInteractable interactable = hit.collider.GetComponent<electricInteractable>();
                 if (interactable != null)
                 {
-                    interactable.Interact();
+                    interactable.electricInteract();
                 }
             }
         }
