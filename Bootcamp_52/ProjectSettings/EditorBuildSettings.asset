@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 28bebb1b4e7b8c74f9caba2b64323424
+  - enabled: 1
+    path: Assets/Scenes/Zeliha.unity
+    guid: b7c1efc7cc773ee4589dfa00e7478120
   m_configObjects: {}
