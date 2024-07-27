@@ -70,7 +70,10 @@ public class FirstPersonController : MonoBehaviour
 
 
     [Header("Animations")]
-    [SerializeField] private Animator animator; 
+    [SerializeField] private Animator animator;
+
+    [Header("Particles")]
+    [SerializeField] private GameObject particles;
 
 
     private Camera playerCamera;
@@ -88,6 +91,8 @@ public class FirstPersonController : MonoBehaviour
         Cursor.lockState = CursorLockMode.Locked;
         Cursor.visible = false;
         animator = GetComponent<Animator>();
+
+
     }
     private void Update()
     {
@@ -121,6 +126,10 @@ public class FirstPersonController : MonoBehaviour
             bool isMoving = currentInput != Vector2.zero;
             animator.SetBool("move", isMoving);
 
+            if (Input.GetKeyDown(KeyCode.F))
+            {
+                particles.SetActive(!particles.activeSelf);
+            }
         }
     }
     private void HandleMovementInput()
