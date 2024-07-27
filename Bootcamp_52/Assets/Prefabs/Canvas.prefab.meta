@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Bootcamp_52/Assets/Prefabs/Canvas.prefab.meta
 guid: b014be1958194004faf122c6bbf8db07
+========
+guid: ba9dfb43541b1a04596f5b8f197d72b7
+>>>>>>>> main:Bootcamp_52/Assets/Models/Character/FirstPersonController.prefab.meta
 PrefabImporter:
   externalObjects: {}
   userData: 
