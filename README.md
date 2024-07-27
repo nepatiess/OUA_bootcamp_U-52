@@ -42,14 +42,16 @@
 - Keşif ve toplama odaklı oyuncular
 - PC oyuncuları
 
-## Product Backlog URL
-> [Sprint Board](https://trello.com/invite/b/zk226x7A/ATTI2a3b4660d2dcb70b5fd94e3d92683b6b50B85BDE/sprint-board)
-
-<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/trello_.png">
-
 ------------
 
 # **SPRINT 1**
+## Product Backlog URL
+> [Sprint Board](https://trello.com/invite/b/zk226x7A/ATTI2a3b4660d2dcb70b5fd94e3d92683b6b50B85BDE/sprint-board)
+
+------------
+
+> <img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/trello_.png">
+
 - **Sprint notları:** Sprintte, oyunda kesinlikle olması gereken kartlar belirlenip görev dağıtımı yapılmıştır.
 - **Puan tamamlama mantığı:** Her bir göreve **1** puan atanmıştır. Proje boyunca tamamlanması gereken toplam backlog puanı **45**'tir.
 - Üç Sprinte böldüğümüzde, ilk sprint için hedeflenen tamamlanma puanı ise **13** olarak belirlenmiştir.
@@ -92,3 +94,138 @@
 - Scrum Master, asistanımızla düzenli olarak görüşmeler gerçekleştirmiştir.
   
 <img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua7.jpg">
+
+------------
+------------
+
+# **SPRINT 2**
+## Product Backlog URL
+
+> [Sprint Board](https://trello.com/invite/b/zk226x7A/ATTI2a3b4660d2dcb70b5fd94e3d92683b6b50B85BDE/sprint-board)
+
+------------
+
+> <img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/Trello_2.png">
+- **Sprint notları:** 2. Sprintte, oyunda olması gereken kartlar belirlenip görev dağıtımı yapılmıştır.
+- **Puan tamamlama mantığı:** Her bir göreve **1** puan atanmış olduğundan toplam backlog puanı **45** olarak devam etmiştir.
+- Üç Sprinte böldüğümüzde, ikinci sprint için hedeflenen tamamlanma puanı ise **16** olarak belirlenmiştir.
+- İlk sprintte backlog puanı **16** üzerinden **16** puan alarak hedefe ulaşılmıştır. Toplam tamamlama puanından sadece **16** puanlık görev kalmıştır.
+- **Daily Scrum:** Görüşmeler, **Whatsapp** ve **Discord** üzerinden sağlanmıştır.
+- **Görüşmelerin ekran fotoğrafları:** [Link](https://imgur.com/a/CLySFFQ)
+
+## Oyun Durumu
+<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua15.png">
+
+------------
+
+<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua16.png">
+
+------------
+
+<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua17.png">
+
+------------
+
+<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua18.png">
+
+------------
+
+<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua20.jpg">
+
+------------
+
+<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua21.jpg">
+
+------------
+
+<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua22.png">
+
+------------
+
+<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua23.png">
+
+------------
+
+<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua24.png">
+
+## Sprint Review
+- Bu sprintte, belirlediğimiz hedeflere ulaşmayı başardık ve önemli özellikleri tamamladık.
+- Sprint sırasında bazı zorluklarla karşılaştık, ancak bunları aşmak için etkili çözümler geliştirdik.
+- Tamamlanan işlerin kalitesi hakkında ekipten aldığımız geri bildirimler olumlu yöndeydi.
+- Gelecek son sprint için yapmamız gereken iyileştirmeleri ve değişiklikleri belirledik.
+- Bir sonraki sprintte odaklanacağımız ana hedefler ve öncelikler üzerine planlamalar yaptık.
+- Gelecek ve son sprint için hazırlıklarımızı tamamladık ve önümüzdeki süreçte neler yapacağımıza dair net bir plan oluşturduk.
+
+## Sprint Retrospective
+- Ekibimiz, belirlediğimiz hedeflere ulaşmak için etkili bir işbirliği ve iletişim sergiledi.
+- Belirli görevlerde zaman yönetimi konusunda bazı sorunlar yaşadık ve bu konuda gelişim göstermemiz gerektiğini düşündük.
+- Ekip üyeleri arasındaki geri bildirim sürecini geliştirmek, gelecekte daha etkili çalışmamıza katkıda bulunuldu.
+- Gelecek sprintte, görevlerimiz üzerine odaklanarak bu alandaki eksiklikleri gidermeyi planlandı.
+- Haftalık kısa toplantılarla ilerleme durumunun sık sık kontrol edilmesi önerildi.
+
+------------
+------------
+
+# **SPRINT 3**
+## Product Backlog URL
+
+> [Sprint Board](https://trello.com/invite/b/zk226x7A/ATTI2a3b4660d2dcb70b5fd94e3d92683b6b50B85BDE/sprint-board)
+
+------------
+
+> <img src="">
+- **Sprint notları:** 3. Sprintte, oyunda olması ve tamamen tamamlanması gereken kartlar belirlenip görev dağıtımı yapılmıştır.
+- **Puan tamamlama mantığı:** Her bir göreve **1** puan atanmış olduğundan toplam backlog puanı **45** olarak devam etmiştir.
+- Üç Sprinte böldüğümüzde, üçüncü sprint için hedeflenen tamamlanma puanı ise **?** olarak belirlenmiştir.
+- İlk sprintte backlog puanı **?** üzerinden **?** puan alarak hedefe ulaşılmıştır. Toplam tamamlama puanı tamamlanmıştır.
+- **Daily Scrum:** Görüşmeler, **Whatsapp** ve **Discord** üzerinden sağlanmıştır.
+- **Görüşmelerin ekran fotoğrafları:** [Link](https://imgur.com/a/yhIGdJi)
+
+## Oyun Durumu
+<img src="">
+
+------------
+
+<img src="">
+
+------------
+
+<img src="">
+
+------------
+
+<img src="">
+
+------------
+
+<img src="">
+
+------------
+
+<img src="">
+
+------------
+
+<img src="">
+
+------------
+
+<img src="">
+
+------------
+
+<img src="">
+
+## Sprint Review
+- 
+- 
+- 
+- 
+- 
+- 
+
+## Sprint Retrospective
+- 
+- 
+- 
+- 
