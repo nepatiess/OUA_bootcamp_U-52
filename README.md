@@ -1,6 +1,6 @@
 ## Örnek Resim
 
-<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/ReadMe/oyun_ikon.PNG" height=500 width=1920 >
+<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oyun_ikon.PNG" height=500 width=1920 >
 
 ## Takım İsmi
 
