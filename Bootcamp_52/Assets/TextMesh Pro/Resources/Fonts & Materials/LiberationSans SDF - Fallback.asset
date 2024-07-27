@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: LiberationSans SDF Material
-  m_Shader: {fileID: 4800000, guid: fe393ace9b354375a9cb14cdbbc28be4, type: 3}
+  m_Shader: {fileID: 4800000, guid: e260cfa7296ee7642b167f1eb5be5023, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -23,6 +23,10 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - _AlphaTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _BumpMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -55,7 +59,15 @@ Material:
         m_Texture: {fileID: 28268798066460806}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _MaskTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
@@ -88,6 +100,7 @@ Material:
     - _DetailNormalMapScale: 1
     - _Diffuse: 0.5
     - _DstBlend: 0
+    - _EnableExternalAlpha: 0
     - _FaceDilate: 0
     - _FaceUVSpeedX: 0
     - _FaceUVSpeedY: 0
@@ -146,11 +159,13 @@ Material:
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _EnvMatrixRotation: {r: 0, g: 0, b: 0, a: 0}
     - _FaceColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Flip: {r: 1, g: 1, b: 1, a: 1}
     - _GlowColor: {r: 0, g: 1, b: 0, a: 0.5}
     - _MaskCoord: {r: 0, g: 0, b: 32767, a: 32767}
     - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
     - _ReflectFaceColor: {r: 0, g: 0, b: 0, a: 1}
     - _ReflectOutlineColor: {r: 0, g: 0, b: 0, a: 1}
+    - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
     - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
     - _UnderlayColor: {r: 0, g: 0, b: 0, a: 0.5}
   m_BuildTextureStacks: []
@@ -170,8 +185,8 @@ MonoBehaviour:
   material: {fileID: 2180264}
   materialHashCode: 462855346
   m_Version: 1.1.0
-  m_SourceFontFileGUID: e3265ab4bf004d28a9537516768c1c75
-  m_SourceFontFile_EditorRef: {fileID: 12800000, guid: e3265ab4bf004d28a9537516768c1c75, type: 3}
+  m_SourceFontFileGUID: 908c6021afa646745915ed5e5aeb558e
+  m_SourceFontFile_EditorRef: {fileID: 12800000, guid: 908c6021afa646745915ed5e5aeb558e, type: 3}
   m_SourceFontFile: {fileID: 12800000, guid: e3265ab4bf004d28a9537516768c1c75, type: 3}
   m_AtlasPopulationMode: 1
   m_FaceInfo:
@@ -197,36 +212,6 @@ MonoBehaviour:
     m_StrikethroughThickness: 6.298828
     m_TabWidth: 24
   m_GlyphTable:
-  - m_Index: 289
-    m_Metrics:
-      m_Width: 38
-      m_Height: 64
-      m_HorizontalBearingX: 2
-      m_HorizontalBearingY: 46
-      m_HorizontalAdvance: 43
-    m_GlyphRect:
-      m_X: 10
-      m_Y: 10
-      m_Width: 38
-      m_Height: 64
-    m_Scale: 1
-    m_AtlasIndex: 0
-    m_ClassDefinitionType: 0
-  - m_Index: 243
-    m_Metrics:
-      m_Width: 8
-      m_Height: 45
-      m_HorizontalBearingX: 8
-      m_HorizontalBearingY: 45
-      m_HorizontalAdvance: 24
-    m_GlyphRect:
-      m_X: 10
-      m_Y: 93
-      m_Width: 8
-      m_Height: 45
-    m_Scale: 1
-    m_AtlasIndex: 0
-    m_ClassDefinitionType: 0
   - m_Index: 225
     m_Metrics:
       m_Width: 40
@@ -257,15 +242,37 @@ MonoBehaviour:
     m_Scale: 1
     m_AtlasIndex: 0
     m_ClassDefinitionType: 0
+  - m_Index: 243
+    m_Metrics:
+      m_Width: 8
+      m_Height: 45
+      m_HorizontalBearingX: 8
+      m_HorizontalBearingY: 45
+      m_HorizontalAdvance: 24
+    m_GlyphRect:
+      m_X: 10
+      m_Y: 93
+      m_Width: 8
+      m_Height: 45
+    m_Scale: 1
+    m_AtlasIndex: 0
+    m_ClassDefinitionType: 0
+  - m_Index: 289
+    m_Metrics:
+      m_Width: 38
+      m_Height: 64
+      m_HorizontalBearingX: 2
+      m_HorizontalBearingY: 46
+      m_HorizontalAdvance: 43
+    m_GlyphRect:
+      m_X: 10
+      m_Y: 10
+      m_Width: 38
+      m_Height: 64
+    m_Scale: 1
+    m_AtlasIndex: 0
+    m_ClassDefinitionType: 0
   m_CharacterTable:
-  - m_ElementType: 1
-    m_Unicode: 351
-    m_GlyphIndex: 289
-    m_Scale: 1
-  - m_ElementType: 1
-    m_Unicode: 305
-    m_GlyphIndex: 243
-    m_Scale: 1
   - m_ElementType: 1
     m_Unicode: 287
     m_GlyphIndex: 225
@@ -273,6 +280,14 @@ MonoBehaviour:
   - m_ElementType: 1
     m_Unicode: 304
     m_GlyphIndex: 242
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 305
+    m_GlyphIndex: 243
+    m_Scale: 1
+  - m_ElementType: 1
+    m_Unicode: 351
+    m_GlyphIndex: 289
     m_Scale: 1
   m_AtlasTextures:
   - {fileID: 28268798066460806}

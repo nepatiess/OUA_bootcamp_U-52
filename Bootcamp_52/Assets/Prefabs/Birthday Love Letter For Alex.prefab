@@ -11,7 +11,12 @@ GameObject:
   - component: {fileID: 1465846517104771376}
   - component: {fileID: 4806814654869851988}
   - component: {fileID: 3245933139195270638}
-  m_Layer: 0
+  - component: {fileID: 4975561658800519322}
+  - component: {fileID: 1334164161970170025}
+  - component: {fileID: 9204091522593528160}
+  - component: {fileID: 1372810881803646170}
+  - component: {fileID: 1885182906762071521}
+  m_Layer: 6
   m_Name: Birthday Love Letter For Alex
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -62,7 +67,6 @@ MeshRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: 769698de5997c79469f0b30a10f0c897, type: 2}
-  - {fileID: 2100000, guid: 769698de5997c79469f0b30a10f0c897, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -84,3 +88,94 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &4975561658800519322
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2994618546507284692}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 2.0000012, y: 1.3774607, z: 0.0015608202}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &1334164161970170025
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2994618546507284692}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d6e014ed6347854c99bfd1b7aa7d505, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  interactLayerContext: etkilesim icin e Tusuna basiniz
+  ImageForDiary: {fileID: 0}
+--- !u!114 &9204091522593528160
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2994618546507284692}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08b5c3e06da6b334caaa444462cd8505, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 0
+  itemName: 
+  description: 
+  prefab: {fileID: 2994618546507284692}
+  icon: {fileID: 0}
+  type: 0
+  rarity: 0
+  maxStack: 0
+  weight: 0
+  baseValue: 0
+--- !u!65 &1372810881803646170
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2994618546507284692}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 2.0000012, y: 1.3774607, z: 0.0015608202}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &1885182906762071521
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2994618546507284692}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dfab52e422d841448b9f562641b1a82, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  customImage: {fileID: 0}

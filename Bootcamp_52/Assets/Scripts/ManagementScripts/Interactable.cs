@@ -10,7 +10,7 @@ public class Interactable : MonoBehaviour
     public static GameObject InteractLayerGO;
     char InteractKey = 'E';
     [SerializeField]
-    protected string interactLayerContext = "etkilesim icin e Tusuna basiniz";
+    protected string interactLayerContext = "Etkileþim için (E) tuþuna basýnýz.";
     bool isPlayerintheTrigger;
     // Start is called before the first frame update
     protected void Start()
