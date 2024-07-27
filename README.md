@@ -1,6 +1,6 @@
 ## Örnek Resim
 
-<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oyun_ikon.PNG" height=500 width=1920 >
+<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/ReadMe/oyun_ikon.PNG" height=500 width=1920 >
 
 ## Takım İsmi
 
@@ -50,7 +50,7 @@
 
 ------------
 
-> <img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/trello_.png">
+> <img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/ReadMe/trello_.png">
 
 - **Sprint notları:** Sprintte, oyunda kesinlikle olması gereken kartlar belirlenip görev dağıtımı yapılmıştır.
 - **Puan tamamlama mantığı:** Her bir göreve **1** puan atanmıştır. Proje boyunca tamamlanması gereken toplam backlog puanı **45**'tir.
