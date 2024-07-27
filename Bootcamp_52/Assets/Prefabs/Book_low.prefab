@@ -258,6 +258,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8086787849432574787}
+  - component: {fileID: 6629286240670754726}
+  - component: {fileID: 5268330231310615974}
   m_Layer: 0
   m_Name: Book_low
   m_TagString: Untagged
@@ -283,3 +285,38 @@ Transform:
   - {fileID: 3076642928196694061}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6629286240670754726
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8895130537961714169}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d6e014ed6347854c99bfd1b7aa7d505, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  interactLayerContext: etkilesim icin e Tusuna basiniz
+  ImageForDiary: {fileID: 21300000, guid: 166333a2e56ceee40b91084a893cc86e, type: 3}
+--- !u!65 &5268330231310615974
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8895130537961714169}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 4.42, y: 6.31, z: 6.47}
+  m_Center: {x: 0, y: 0, z: 0}
