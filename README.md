@@ -1,6 +1,6 @@
 ## Örnek Resim
 
-<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oyun_ikon.PNG" height=500 width=1920 >
+<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/ReadMe/oyun_ikon.PNG" height=500 width=1920 >
 
 ## Takım İsmi
 
@@ -50,7 +50,7 @@
 
 ------------
 
-> <img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/trello_.png">
+> <img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/ReadMe/trello_.png">
 
 - **Sprint notları:** Sprintte, oyunda kesinlikle olması gereken kartlar belirlenip görev dağıtımı yapılmıştır.
 - **Puan tamamlama mantığı:** Her bir göreve **1** puan atanmıştır. Proje boyunca tamamlanması gereken toplam backlog puanı **45**'tir.
@@ -60,23 +60,23 @@
 - **Görüşmelerin ekran fotoğrafları:** [Link](https://imgur.com/a/discord-ve-whatsapp-g-r-meleri-VHg7UIp)
 
 ## Oyun Durumu
-<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua1.png">
+<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/ReadMe/oua1.png">
 
 ------------
 
-<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua2.png">
+<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/ReadMe/oua2.png">
 
 ------------
 
-<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua3.png">
+<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/ReadMe/oua3.png">
 
 ------------
 
-<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua4.png">
+<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/ReadMe/oua4.png">
 
 ------------
 
-<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua5.png">
+<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/ReadMe/oua5.png">
 
 ## Sprint Review
 - Oyunun türü ve takım üyelerinin rolleri belirlendi.
@@ -93,7 +93,7 @@
 ## Toplantılar
 - Scrum Master, asistanımızla düzenli olarak görüşmeler gerçekleştirmiştir.
   
-<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua7.jpg">
+<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/ReadMe/oua7.jpg">
 
 ------------
 ------------
@@ -105,7 +105,7 @@
 
 ------------
 
-> <img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/Trello_2.png">
+> <img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/ReadMe/Trello_2.png">
 - **Sprint notları:** 2. Sprintte, oyunda olması gereken kartlar belirlenip görev dağıtımı yapılmıştır.
 - **Puan tamamlama mantığı:** Her bir göreve **1** puan atanmış olduğundan toplam backlog puanı **45** olarak devam etmiştir.
 - Üç Sprinte böldüğümüzde, ikinci sprint için hedeflenen tamamlanma puanı ise **16** olarak belirlenmiştir.
@@ -114,39 +114,39 @@
 - **Görüşmelerin ekran fotoğrafları:** [Link](https://imgur.com/a/CLySFFQ)
 
 ## Oyun Durumu
-<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua15.png">
+<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/ReadMe/oua15.png">
 
 ------------
 
-<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua16.png">
+<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/ReadMe/oua16.png">
 
 ------------
 
-<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua17.png">
+<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/ReadMe/oua17.png">
 
 ------------
 
-<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua18.png">
+<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/ReadMe/oua18.png">
 
 ------------
 
-<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua20.jpg">
+<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/ReadMe/oua20.jpg">
 
 ------------
 
-<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua21.jpg">
+<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/ReadMe/oua21.jpg">
 
 ------------
 
-<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua22.png">
+<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/ReadMe/oua22.png">
 
 ------------
 
-<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua23.png">
+<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/ReadMe/oua23.png">
 
 ------------
 
-<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/oua24.png">
+<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/ReadMe/oua24.png">
 
 ## Sprint Review
 - Bu sprintte, belirlediğimiz hedeflere ulaşmayı başardık ve önemli özellikleri tamamladık.
