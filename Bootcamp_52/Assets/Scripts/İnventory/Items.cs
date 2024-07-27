@@ -1,8 +1,6 @@
 using UnityEngine;
 
-[CreateAssetMenu(fileName = "New Item", menuName = "Create new Item")]
-[System.Serializable]
-public class Items : ScriptableObject
+public class Items : MonoBehaviour
 {
     #region test
     //private static int current_id;
