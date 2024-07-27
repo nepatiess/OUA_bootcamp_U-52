@@ -3,14 +3,13 @@ using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class DocumentInteract : Interactable
 {
     public static GameObject documentGO;
-    
-    [SerializeField]
-    TextMeshProUGUI documentText;
 
+    public Sprite ImageForDiary;
     void Start()
     {
         Debug.Log("bura girdim child ");
@@ -40,9 +39,7 @@ public class DocumentInteract : Interactable
     // Notların ve dosyaların açılın içerisine verilerin aktarıldığı bölüm
     void ShowDocument()
     {
-        // Objedeki tüm TextMesh özelliklerinin canvas a aktarımı...
-        string json = JsonUtility.ToJson(documentText);
-        JsonUtility.FromJsonOverwrite(json,documentGO.GetComponentInChildren<TextMeshProUGUI>());
+        documentGO.GetComponent<Image>().sprite = ImageForDiary;
         documentGO.SetActive(true);
 
     }
