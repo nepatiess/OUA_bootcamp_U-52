@@ -191,7 +191,7 @@
 ## Oyun Durumu
 ------------
 
- ![](https://geps.dev/progress/100)
+ ![](https://geps.dev/progress/96)
 
 <img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/ReadMe/oua25.jpg">
 
