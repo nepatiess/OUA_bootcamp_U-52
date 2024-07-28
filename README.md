@@ -183,8 +183,8 @@
 > <img src="">
 - **Sprint notları:** 3. Sprintte, oyunda olması ve tamamen tamamlanması gereken kartlar belirlenip görev dağıtımı yapılmıştır.
 - **Puan tamamlama mantığı:** Her bir göreve **1** puan atanmış olduğundan toplam backlog puanı **45** olarak devam etmiştir.
-- Üç Sprinte böldüğümüzde, üçüncü sprint için hedeflenen tamamlanma puanı ise **?** olarak belirlenmiştir.
-- İlk sprintte backlog puanı **?** üzerinden **?** puan alarak hedefe ulaşılmıştır. Toplam tamamlama puanı tamamlanmıştır.
+- Üç Sprinte böldüğümüzde, üçüncü sprint için hedeflenen tamamlanma puanı ise **16** olarak belirlenmiştir.
+- İlk sprintte backlog puanı **16** üzerinden **14** puan alarak hedefe ulaşılamamıştır. Toplam tamamlama puanı tamamlanamamıştır.
 - **Daily Scrum:** Görüşmeler, **Whatsapp** ve **Discord** üzerinden sağlanmıştır.
 - **Görüşmelerin ekran fotoğrafları:** [Link](https://imgur.com/a/yhIGdJi)
 
