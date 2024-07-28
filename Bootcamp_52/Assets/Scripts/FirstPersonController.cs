@@ -1,6 +1,8 @@
 using System.Collections;
+using System.Runtime.CompilerServices;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class FirstPersonController : MonoBehaviour
 {
@@ -61,6 +63,7 @@ public class FirstPersonController : MonoBehaviour
     [SerializeField] private float crouchStepMultipler = 1.5f;
     [SerializeField] private float sprintStepMultipler = 0.7f;
     [SerializeField] private AudioSource footstepAudioSource;
+    [SerializeField] private AudioClip[] gameMusic = default;
     [SerializeField] private AudioClip[] woodClips = default;
     [SerializeField] private AudioClip[] grassClips = default;
     [SerializeField] private AudioClip[] jumpClips = default;
@@ -130,8 +133,13 @@ public class FirstPersonController : MonoBehaviour
             {
                 particles.SetActive(!particles.activeSelf);
             }
+            footstepAudioSource.PlayOneShot(gameMusic[0]);
+
+            
         }
+
     }
+
     private void HandleMovementInput()
     {
         //currentInput = new Vector2((IsSprinting ? sprintSpeed : isCrouching ? crouchSpeed : walkSpeed) * Input.GetAxis("Vertical"), (IsSprinting ? sprintSpeed : isCrouching ? crouchSpeed :  walkSpeed) * Input.GetAxis("Horizontal")); // this is false because while crouching we can sprinting !
@@ -139,7 +147,7 @@ public class FirstPersonController : MonoBehaviour
         float moveDirectionY = moveDirection.y;
         moveDirection = (transform.TransformDirection(Vector3.forward) * currentInput.x) + (transform.TransformDirection(Vector3.right) * currentInput.y);
         moveDirection.y = moveDirectionY;
-      
+
 
     }
     private void HandleMouseLook()
@@ -276,5 +284,7 @@ public class FirstPersonController : MonoBehaviour
         isCrouching = !isCrouching;
         duringCrouchAnimation = false;
     }
-    
+
+
+
 }
