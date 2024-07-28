@@ -60,6 +60,9 @@
 
 ## Oyun Durumu
  ![](https://geps.dev/progress/28)
+ 
+ ------------
+ 
 <img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/ReadMe/oua1.png">
 
 ------------
@@ -114,7 +117,11 @@
 - **Görüşmelerin ekran fotoğrafları:** [Link](https://imgur.com/a/CLySFFQ)
 
 ## Oyun Durumu
+
  ![](https://geps.dev/progress/64)
+
+ ------------
+ 
 <img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/ReadMe/oua15.png">
 
 ------------
@@ -183,7 +190,13 @@
 - **Görüşmelerin ekran fotoğrafları:** [Link](https://imgur.com/a/yhIGdJi)
 
 ## Oyun Durumu
+
+------------
+
  ![](https://geps.dev/progress/100)
+
+------------
+ 
 <img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/ReadMe/oua25.png">
 
 ------------
