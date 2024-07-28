@@ -5898,7 +5898,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3005093194221701799, guid: 2f95fdddab11c5044b6677c4b98dc46a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 202
+      value: 60.3
       objectReference: {fileID: 0}
     - target: {fileID: 3005093194221701799, guid: 2f95fdddab11c5044b6677c4b98dc46a, type: 3}
       propertyPath: m_LocalPosition.y
@@ -5906,7 +5906,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3005093194221701799, guid: 2f95fdddab11c5044b6677c4b98dc46a, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 305
+      value: 87.3
       objectReference: {fileID: 0}
     - target: {fileID: 3005093194221701799, guid: 2f95fdddab11c5044b6677c4b98dc46a, type: 3}
       propertyPath: m_LocalRotation.w
@@ -5944,10 +5944,26 @@ PrefabInstance:
       propertyPath: infoText
       value: 
       objectReference: {fileID: 966080495}
+    - target: {fileID: 4096224045677746982, guid: 2f95fdddab11c5044b6677c4b98dc46a, type: 3}
+      propertyPath: gameMusic.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4096224045677746982, guid: 2f95fdddab11c5044b6677c4b98dc46a, type: 3}
+      propertyPath: gameMusic.Array.data[0]
+      value: 
+      objectReference: {fileID: 8300000, guid: b93c086fc6b25fe4182078447d3d92b5, type: 3}
     - target: {fileID: 4941477059694574565, guid: 2f95fdddab11c5044b6677c4b98dc46a, type: 3}
       propertyPath: infoText
       value: 
       objectReference: {fileID: 125034490}
+    - target: {fileID: 5089803207810235435, guid: 2f95fdddab11c5044b6677c4b98dc46a, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5391722983221161404, guid: 2f95fdddab11c5044b6677c4b98dc46a, type: 3}
+      propertyPath: m_Intensity
+      value: 2.5
+      objectReference: {fileID: 0}
     - target: {fileID: 6452084568212137058, guid: 2f95fdddab11c5044b6677c4b98dc46a, type: 3}
       propertyPath: infoText
       value: 
@@ -9152,9 +9168,9 @@ Terrain:
   serializedVersion: 6
   m_TerrainData: {fileID: 15600000, guid: aa767e0c03e06fa4aa77d390b27d52e7, type: 2}
   m_TreeDistance: 5000
-  m_TreeBillboardDistance: 150
-  m_TreeCrossFadeLength: 15
-  m_TreeMaximumFullLODCount: 500
+  m_TreeBillboardDistance: 500
+  m_TreeCrossFadeLength: 200
+  m_TreeMaximumFullLODCount: 886
   m_DetailObjectDistance: 250
   m_DetailObjectDensity: 1
   m_HeightmapPixelError: 5
@@ -16657,7 +16673,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!108 &1817542089
 Light:
   m_ObjectHideFlags: 0
@@ -19402,6 +19418,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8463992107905500827, guid: 0741b8059c6de55468964c42f2f14067, type: 3}
+      propertyPath: interactLayerContext
+      value: "Etkile\u015Fim i\xE7in \"E\" tu\u015Funa bas\u0131n\u0131z."
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -20586,6 +20606,10 @@ PrefabInstance:
     - target: {fileID: 5453121306285125585, guid: 947569c4b7616b141a99219d51d5d46f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5761644574715369243, guid: 947569c4b7616b141a99219d51d5d46f, type: 3}
+      propertyPath: interactLayerContext
+      value: "Etkile\u015Fim i\xE7in \"E\" tu\u015Funa bas\u0131n\u0131z."
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
