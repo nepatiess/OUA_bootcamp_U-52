@@ -22,9 +22,9 @@ public class FirstPersonController : MonoBehaviour
     [SerializeField] private KeyCode crouchKey = KeyCode.LeftControl;
 
     [Header("Movement Paraneters")]
-    [SerializeField] private float walkSpeed = 8.0f;
-    [SerializeField] private float sprintSpeed = 16.0f;
-    [SerializeField] private float crouchSpeed = 4.0f;
+    [SerializeField] private float walkSpeed = 3.0f;
+    [SerializeField] private float sprintSpeed = 6.0f;
+    [SerializeField] private float crouchSpeed = 1.5f;
 
     [Header("Look Paramaeters")]
     [SerializeField, Range(1, 10)] private float lookSpeedX = 2.0f;

@@ -25,19 +25,11 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _AO:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
     - _BumpMap:
         m_Texture: {fileID: 2800000, guid: 782ce5b7d9e1d1a44b0ce0f55432e361, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _DetailBump:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
@@ -73,23 +65,7 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _Spc:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
     - _SubsurfaceTex:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _layer1Breakup:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _layer1Norm:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _layer1Tex:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
@@ -113,9 +89,7 @@ Material:
     - _AlphaClipThreshold: 0.33
     - _BumpScale: 1
     - _Cutoff: 0.5
-    - _DetailInt: 0.4
     - _DetailNormalMapScale: 1
-    - _DetailTiling: 2
     - _DstBlend: 0
     - _GlossMapScale: 0.661
     - _Glossiness: 0.5
@@ -127,10 +101,8 @@ Material:
     - _OcclusionStrength: 1
     - _OldHueVarBehavior: 0
     - _Parallax: 0.02
-    - _Power: 1
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Shift: 1
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
@@ -140,16 +112,13 @@ Material:
     - _WINDQUALITY: 4
     - _WindQuality: 1
     - _ZWrite: 1
-    - _layer1BreakupAmnt: 0.5
-    - _layer1Metal: 0
-    - _layer1Tiling: 10
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _HueVariationColor: {r: 1, g: 0.5, b: 0, a: 0.2}
     - _SubsurfaceColor: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []
---- !u!114 &1165177662571671742
+--- !u!114 &8299072405441456828
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}

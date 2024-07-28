@@ -11,7 +11,7 @@ public class UIInteract : MonoBehaviour
     {
         if (customImage == null)
         {
-            Debug.LogError("CustomImage is not assigned in the Inspector!");
+            Debug.Log("CustomImage is not assigned in the Inspector!");
         }
     }
 

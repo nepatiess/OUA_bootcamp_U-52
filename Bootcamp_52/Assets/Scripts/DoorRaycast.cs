@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class DoorRaycast : MonoBehaviour
 {
-    [SerializeField] private int RayLenght = 10;
+    [SerializeField] private int RayLenght = 5;
     [SerializeField] private LayerMask layerMaskInteract;
     [SerializeField] private string excludeLayerName;
 
