@@ -182,7 +182,7 @@
 
 ------------
 
-> <img src="">
+> <img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/ReadMe/trello_3.png">
 - **Sprint notları:** 3. Sprintte, oyunda olması ve tamamen tamamlanması gereken kartlar belirlenip görev dağıtımı yapılmıştır.
 - **Puan tamamlama mantığı:** Her bir göreve **1** puan atanmış olduğundan toplam backlog puanı **45** olarak devam etmiştir.
 - Üç Sprinte böldüğümüzde, üçüncü sprint için hedeflenen tamamlanma puanı ise **16** olarak belirlenmiştir.
