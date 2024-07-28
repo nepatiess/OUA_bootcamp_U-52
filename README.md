@@ -216,15 +216,14 @@
 <img src="">
 
 ## Sprint Review
-- 
-- 
-- 
-- 
-- 
-- 
+- Belirlenen hedeflere ulaşıldı ve tüm görevler tamamlandı.
+- Önemli özelliklerin entegrasyonunda bazı zorluklar yaşandı.
+- Takım bir üye kaybı nedeniyle iş yükü arttı.
+- Ekip, özveriyle çalışarak entegrasyon ve hata ayıklamada ilerleme kaydetti.
+- Proje kapsamında, tüm eklemeler ana sahneye aktarıldı.
 
 ## Sprint Retrospective
-- 
-- 
-- 
-- 
+- Ekip içinde daha sık ve etkili iletişim kuruldu ve son sprint başarıyla tamamlandı.
+- Zaman yönetimi konusunda bazı sorunlar yaşandı.
+- Sprint boyunca iletişim kanallarımızı etkili bir şekilde kullanarak, tüm sorunları hızlıca çözebildik.
+- Son sprintte eksiklikler giderildi ve çalışan bir oyun elde edildi.
