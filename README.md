@@ -193,11 +193,11 @@
 
  ![](https://geps.dev/progress/100)
 
-<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/ReadMe/oua25.png">
+<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/ReadMe/oua26.png">
 
 ------------
 
-<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/ReadMe/oua26.jpg">
+<img src="">
 
 ------------
 
