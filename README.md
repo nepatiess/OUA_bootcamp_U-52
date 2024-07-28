@@ -59,9 +59,10 @@
 - **Görüşmelerin ekran fotoğrafları:** [Link](https://imgur.com/a/discord-ve-whatsapp-g-r-meleri-VHg7UIp)
 
 ## Oyun Durumu
- ![](https://geps.dev/progress/28)
+------------
+
+![](https://geps.dev/progress/28)
  
- ------------
  
 <img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/ReadMe/oua1.png">
 
@@ -118,9 +119,8 @@
 
 ## Oyun Durumu
 
+------------
  ![](https://geps.dev/progress/64)
-
- ------------
  
 <img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/ReadMe/oua15.png">
 
