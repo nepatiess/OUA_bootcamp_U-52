@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - InteractiveObject
+  - Collectable
+  - Model
+  - kapak
+  - FootSteps/Grass
+  - FootSteps/Wood
   layers:
   - Default
   - TransparentFX
@@ -14,12 +19,12 @@ TagManager:
   - UI
   - Interact
   - Plane
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Item
+  - Model
+  - 'Chest1 '
+  - Chest2
+  - Chest3
+  - Chest4
   - 
   - 
   - 

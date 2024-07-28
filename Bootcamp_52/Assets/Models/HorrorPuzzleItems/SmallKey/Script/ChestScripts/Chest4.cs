@@ -18,7 +18,7 @@ public class Chest4 : MonoBehaviour
     {
         // Sandýðýn baþlangýç pozisyonunu kapalý olarak ayarla
         transform.localRotation = Quaternion.Euler(closedRotation);
-        player = GameObject.Find("PlayerCapsule"); // Oyuncu kapsülünü bul
+        player = GameObject.Find("FirstPersonController"); // Oyuncu kapsülünü bul
         lockPiece = null; // Baþlangýçta kilit parçasý yok
     }
 
