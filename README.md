@@ -181,11 +181,11 @@
 - **Görüşmelerin ekran fotoğrafları:** [Link](https://imgur.com/a/yhIGdJi)
 
 ## Oyun Durumu
-<img src="">
+<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/ReadMe/oua25.png">
 
 ------------
 
-<img src="">
+<img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/ReadMe/oua26.jpg">
 
 ------------
 
