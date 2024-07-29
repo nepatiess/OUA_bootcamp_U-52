@@ -251,7 +251,6 @@
 <img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/ReadMe/oua40.jpg">
 
 ## Sprint Review
-- Belirlenen hedeflere ulaşıldı ve tüm görevler tamamlandı.
 - Önemli özelliklerin entegrasyonunda bazı zorluklar yaşandı.
 - Takım bir üye kaybı nedeniyle iş yükü arttı.
 - Ekip, özveriyle çalışarak entegrasyon ve hata ayıklamada ilerleme kaydetti.
