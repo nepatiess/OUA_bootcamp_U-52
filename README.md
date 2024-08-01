@@ -268,6 +268,7 @@
 ## Karakterler
 Ana Karakter: 
 - [First Person](https://sketchfab.com/3d-models/first-person-hands-rigged-547a45535f0c4fe787948f7a7a6a88db)
+
 Gaz Lambası:
 - [Kerosene](https://sketchfab.com/3d-models/kerosene-lamp-538a8099d78d44ad853fa1dadf6f9349)
 
