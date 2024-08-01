@@ -1,5 +1,3 @@
-## Örnek Resim
-
 <img src="https://raw.githubusercontent.com/nepatiess/OUA_bootcamp_U-52/main/Bootcamp_52/Assets/ReadMe/oyun_ikon.PNG" height=500 width=1920 >
 
 ## Takım İsmi
@@ -21,8 +19,7 @@
 
 ## Oyun Açıklaması
 
-- "The Unholy Covenant", PC platformunda oynanan, adrenalin dolu bir 3D korku ve macera oyunudur. Oyuncular, aracının bozulması sonucu terkedilmiş ve lanetli bir kasabada mahsur kalan bir karakteri kontrol ederler. Amacınız, kasabanın sırlarını açığa çıkararak ve hayatta kalmak için gerekli eşyaları bularak bu kabustan kurtulmaktır.
-- Oyunun atmosferik dünyasında, her köşe başında sizi korkunç yaratıklar ve ürpertici olaylar bekliyor. Bulmacaları çözerek ve çeşitli ipuçlarını takip ederek kasabanın karanlık geçmişine dair parçaları bir araya getirin. Yol boyunca, dehşet verici yaratıklarla yüzleşmek zorundasınız. Savaş mekanikleri ve stratejik düşünme, hayatta kalmak için anahtar olacak.
+- "The Unholy Covenant", PC platformunda oynanan, gizem dolu bir 3D korku ve macera oyunudur. Oyuncular, arkadaşını aramaya gelen bir karakteri oynarlar. Amacınız, kasabanın sırlarını açığa çıkararak arkadaşı Jake'i bulmak ve hayatta kalmak için gerekli eşyaları bularak bu kabustan kurtulmaktır.
 
 ## Oyun Özellikleri
 
