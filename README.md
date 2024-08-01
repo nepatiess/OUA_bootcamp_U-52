@@ -289,8 +289,7 @@ Etraf Düzenleme:
 
 Eşyalar:
 - [Kitap](https://sketchfab.com/3d-models/spell-book-28be8007855945fb9aebdbd080d71b4f#download)
-- [Item1](https://assetstore.unity.com/packages/3d/props/retro-psx-horror-healing-item-pack-icon-lowpoly-251611)
-- [Item2](https://assetstore.unity.com/packages/3d/props/retro-psx-horror-puzzle-item-pack-icon-lowpoly-250188)
+- [Anahtarlar](https://assetstore.unity.com/packages/3d/props/retro-psx-horror-puzzle-item-pack-icon-lowpoly-250188)
 - [Elektrik Panosu](https://assetstore.unity.com/packages/3d/props/electrical-shield-118266)
 - [Sayı Lambaları](https://sketchfab.com/3d-models/gas-discharge-lamps-1054b3c5dd43498485104cc6500451c7)
 - [Sandık](https://assetstore.unity.com/packages/3d/props/old-chest-64374#content)
