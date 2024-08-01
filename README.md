@@ -266,30 +266,41 @@
 # **Kullanılan Assetler/Kaynaklar**
 
 ## Karakterler
-- Ana Karakter: [Sketchfab](https://sketchfab.com/3d-models/animation-first-person-arms-male-e1d747f30df9412c93040b9cec6f2b55)
-- Gaz Lambası: []()
+Ana Karakter: 
+- [First Person](https://sketchfab.com/3d-models/first-person-hands-rigged-547a45535f0c4fe787948f7a7a6a88db)
+Gaz Lambası:
+- [Kerosene](https://sketchfab.com/3d-models/kerosene-lamp-538a8099d78d44ad853fa1dadf6f9349)
 
-## Çevre
-- Kasaba: [Unity Asset Store](https://assetstore.unity.com/packages/3d/environments/flooded-grounds-48529)
-- Eşyalar: [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/furniture/furniture-free-pack-192628)
-  [Unity Asset Store](https://sketchfab.com/3d-models/dirty-furniture-d238a8fb81304c83b8bb838643eb5da5)
-- 
+## Çevre FBX
+Kasaba: 
+- [Flooded Ground](https://assetstore.unity.com/packages/3d/environments/flooded-grounds-48529)
+  
+Mobilyalar:
+- [Furniture](https://assetstore.unity.com/packages/3d/props/furniture/furniture-free-pack-192628)
+- [Dirty Furniture](https://sketchfab.com/3d-models/dirty-furniture-d238a8fb81304c83b8bb838643eb5da5)
+  
+Etraf Düzenleme:
+- [Kan](https://sketchfab.com/3d-models/pool-of-blood-low-poly-planes-7f26b964841f45e7be9dc92eb7a5d89a)
+- [Heykel](https://sketchfab.com/3d-models/graveyard-angel-stone-sculpture-statue-bf55c6686ae7454181fa33662e7eca29)
+- [Heykel2](https://sketchfab.com/3d-models/church-cross-dcb58154c2c0478887f1efa78b386517)
+- [Tabut1](https://sketchfab.com/3d-models/wooden-coffins-free-23f49c5ab417455a9d8fca828919354e)
+- [Tabut2](https://sketchfab.com/3d-models/broken-coffin-715fd5c8503b4a0e8106168535c186ff)
 
+Eşyalar:
+- [Kitap](https://sketchfab.com/3d-models/spell-book-28be8007855945fb9aebdbd080d71b4f#download)
+- [Item1](https://assetstore.unity.com/packages/3d/props/retro-psx-horror-healing-item-pack-icon-lowpoly-251611)
+- [Item2](https://assetstore.unity.com/packages/3d/props/retro-psx-horror-puzzle-item-pack-icon-lowpoly-250188)
+- [Elektrik Panosu](https://assetstore.unity.com/packages/3d/props/electrical-shield-118266)
+- [Sayı Lambaları](https://sketchfab.com/3d-models/gas-discharge-lamps-1054b3c5dd43498485104cc6500451c7)
+- [Sandık](https://assetstore.unity.com/packages/3d/props/old-chest-64374#content)
+- [Kablo](https://www.cgtrader.com/free-3d-models/industrial/other/mini-pack-wires)
 
 ## SFX
--
--
--
+https://assetstore.unity.com/packages/audio/sound-fx/foley/footsteps-essentials-189879#content
 
 ## Assetler
--
--
--
+
 
 ## UI
--
--
--
--
 
 ## Plugins
