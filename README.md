@@ -266,16 +266,15 @@
 # **Kullanılan Assetler/Kaynaklar**
 
 ## Karakterler
+- Ana Karakter: [Sketchfab](https://sketchfab.com/3d-models/animation-first-person-arms-male-e1d747f30df9412c93040b9cec6f2b55)
+- Gaz Lambası: []()
 
-- nfjsfowe: [Link](https://imgur.com/a/yhIGdJi)
-- fkd
-- dfkokf
-- dlfksdf
-- sdlfkpsdf
+## Çevre
+- Kasaba: [Unity Asset Store](https://assetstore.unity.com/packages/3d/environments/flooded-grounds-48529)
+- Eşyalar: [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/furniture/furniture-free-pack-192628)
+  [Unity Asset Store](https://sketchfab.com/3d-models/dirty-furniture-d238a8fb81304c83b8bb838643eb5da5)
+- 
 
-## VFX
-- fpdfkspf
-- ldfsof
 
 ## SFX
 -
