@@ -298,12 +298,12 @@ Eşyalar:
 
 ## SFX
 - [Oyun Müziği](https://pixabay.com/tr/sound-effects/intense-horror-music-01-14890/)
-- [Sandık Ses Efekti](https://pixabay.com/tr/sound-effects/chest-opening-87569/)
+- [Kapı Ses EFekti](https://pixabay.com/tr/sound-effects/chest-opening-87569/)
 - [Elektrik Ses Efekti](https://pixabay.com/tr/sound-effects/075681-electric-shock-33018/)
 - [Lever Ses Efekti](https://pixabay.com/tr/sound-effects/lever-chains14-41056/)
 - [Buton Ses Efekti](https://pixabay.com/tr/sound-effects/switch-button-106349/)
-- [?](https://pixabay.com/tr/sound-effects/wooden-chest-being-picked-up-from-soft-surface-94389/)
+- [Sandık Ses Efekti](https://pixabay.com/tr/sound-effects/wooden-chest-being-picked-up-from-soft-surface-94389/)
 - [Adım Atma Ses Efekti](https://assetstore.unity.com/packages/audio/sound-fx/foley/footsteps-essentials-189879#content)
 
 ## UI
-https://assetstore.unity.com/packages/2d/gui/dark-brown-gui-kit-201086
+- [UI](https://assetstore.unity.com/packages/2d/gui/dark-brown-gui-kit-201086)
