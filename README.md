@@ -28,6 +28,10 @@
 - Single Player
 - Windows (PC)
 
+
+## Oyun Video Linki
+- https://youtu.be/rRtpP8Ta8C4
+
 ## Hedef Kitle
 
 - Genç-Orta yaş yetişkinler
@@ -258,3 +262,35 @@
 - Zaman yönetimi konusunda bazı sorunlar yaşandı.
 - Sprint boyunca iletişim kanallarımızı etkili bir şekilde kullanarak, tüm sorunları hızlıca çözebildik.
 - Son sprintte eksiklikler giderildi ve çalışan bir oyun elde edildi.
+
+# **Kullanılan Assetler/Kaynaklar**
+
+## Karakterler
+
+- nfjsfowe: [Link](https://imgur.com/a/yhIGdJi)
+- fkd
+- dfkokf
+- dlfksdf
+- sdlfkpsdf
+
+## VFX
+- fpdfkspf
+- ldfsof
+
+## SFX
+-
+-
+-
+
+## Assetler
+-
+-
+-
+
+## UI
+-
+-
+-
+-
+
+## Plugins
